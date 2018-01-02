@@ -1,5 +1,7 @@
 # Awesome Podcasts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/awesome-podcasts.svg)](https://greenkeeper.io/)
+
 > 😎 Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ---
